@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  DiferentCellTypes
 //
-//  Created by Irvin Geovani Chan Canche on 08/05/20.
+//  Created by Irvin Chan on 08/05/20.
 //  Copyright © 2020 iccanche. All rights reserved.
 //
 
